@@ -15,6 +15,14 @@ Or jut git clone it
 ```shell
 $ git clone https://github.com/BlackReaperSK/gtranslator;cd gtranslator
 ```
+### 📖 Coming soon
+
+1. Polished Translation Coherence: I understand the importance of ensuring that translated text remains coherent and flows seamlessly, even when utilizing the power of goroutines. I'm working diligently to refine this aspect, so you can expect more consistent and connected translations.
+
+2. Real-Time Bash Translation: Communication often happens in the heat of the moment, and I'm excited to announce that I'm developing a feature that will allow you to translate text from your Bash terminal in real-time as you type. This will make conversations and tool uses even smoother and more dynamic.
+
+3. Performance Boosts: My goal is to make gtranslator faster and more efficient than ever before. I'm actively implementing performance improvements that will streamline the translation process, reducing wait times and allowing you to accomplish your tasks with lightning speed.
+
 ## 🤝 Contributing
 
 Contributions to gtranslator are welcome! If you would like to contribute, you can do so by:
