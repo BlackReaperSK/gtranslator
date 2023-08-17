@@ -13,7 +13,9 @@ $ go install github.com/BlackReaperSK/gtranslator@latest
 ```
 Or jut git clone it
 ```shell
-$ git clone https://github.com/BlackReaperSK/gtranslator;cd gtranslator
+$ git clone https://github.com/BlackReaperSK/gtranslator
+$ cd gtranslator
+$ go build
 ```
 ### 📖 Coming soon
 
