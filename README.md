@@ -2,8 +2,7 @@
 
 gtranslator is a powerful command-line tool developed in Go that empowers users to seamlessly translate text into an array of languages by harnessing the capabilities of the Google Translate API. With its efficiency, gtranslator brings the world of multilingual communication to your fingertips, allowing you to effortlessly bridge language barriers. 
 
-
-![image](https://github.com/BlackReaperSK/gtranslator/assets/82294569/d756dcf6-5c33-4553-90dd-b5d45ddc5470)
+![image](https://github.com/BlackReaperSK/gtranslator/assets/82294569/d1a5bc06-af7c-435d-a00e-06506a71ebac)
 
 ### 🔧 Installation
 
